@@ -1,5 +1,5 @@
 # ProjetRMI
-This project is a Java-based machine and room management system developed using Java Swing for the graphical user interface and RMI (Remote Method Invocation) for client-server communication. The system allows users to manage machines and rooms within a facility, making it ideal for organizations looking to streamline resource allocation and tracking.
+Ce projet a été réalisé en Java et propose un système de gestion des machines et des salles. Il utilise l'interface graphique Java Swing et le RMI (Remote Method Invocation) pour établir la communication entre le client et le serveur. Ce système permet aux utilisateurs de gérer les machines et les salles au sein d'une installation, ce qui en fait une solution idéale pour les organisations souhaitant optimiser l'allocation et le suivi des ressources.
 
 # Diagramme de classes
 <img src="https://github.com/HSSINEYounes/ProjetRMI/assets/110121668/541bf031-b9cb-4b5a-a211-910c44204c77" width="500">
